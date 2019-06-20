@@ -1,3 +1,3 @@
 # freecodecamp
 
-All tutorial projects freecodecamp
+All=tutorial=projects=freecodecamp
